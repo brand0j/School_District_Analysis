@@ -43,6 +43,7 @@ Replacing the ninth graders math and reading scores made Thomas High School the 
 
 
 When looking at the math and reading scores by grade, the only difference is that when we display the math & reading scores, the 9th-grade is replaced by NaN for Thomas High School in both data-frames. Math(left), Reading(right)
+
 ![math_scores_by_grade](https://github.com/brand0j/School_District_Analysis/blob/main/Resources/math_scores_by_grade.PNG)
 ![reading_scores_by_grade](https://github.com/brand0j/School_District_Analysis/blob/main/Resources/reading_scores_by_grade.PNG)
 
